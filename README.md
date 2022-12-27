@@ -1,1 +1,1 @@
-PODGLĄD PROJEKTU: https://nikolamat99.github.io/BOOTSTRAP3/
+PROJECT PREVIEW: https://nikolamat99.github.io/BOOTSTRAP3/
